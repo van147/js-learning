@@ -116,6 +116,7 @@ var operation = prompt("Choose the operation (+, -, *, /):");
 
 switch (operation) {
     case "+":
+        adadsdasd
         alert(num1 + num2);
         break;
     case "-":
